@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Open Library VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2026-04-28 18:58-0400\n"
-"PO-Revision-Date: 2026-05-02 15:33+0200\n"
+"PO-Revision-Date: 2026-05-02 20:25+0200\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: \n"
 "Language: hr\n"
@@ -283,7 +283,7 @@ msgstr "Skočni prozor"
 
 #: design.html type/edition/view.html type/work/view.html
 msgid "Read More"
-msgstr "Prikaži više"
+msgstr "Čitaj više"
 
 #: design.html
 msgid "Chip"
@@ -1372,7 +1372,7 @@ msgstr "Trenutačno čitam"
 #: book_providers/read_button.html books/edit/edition.html trending.html
 #: type/list/embed.html widget.html
 msgid "Read"
-msgstr "Pročitano"
+msgstr "Čitaj"
 
 #: trending.html
 #, python-format
@@ -7617,7 +7617,7 @@ msgstr "Knjiga %s"
 
 #: type/edition/view.html type/work/view.html
 msgid "Read Less"
-msgstr "Prikaži manje"
+msgstr "Čitaj manje"
 
 #: type/edition/view.html type/work/view.html
 #, python-format
